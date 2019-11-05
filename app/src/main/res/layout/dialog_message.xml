@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_splash_color">
+
+    <RelativeLayout
+        android:id="@+id/ll_logo_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp">
+
+        <ImageView
+            android:id="@+id/iv_logo"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_globe" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/iv_logo"
+            android:text="HUBBUD"
+            android:textColor="@color/colorWhite"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_sender_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sender Name: "
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorBlack"
+        android:layout_below="@+id/ll_logo_name"/>
+
+    <TextView
+        android:id="@+id/tv_sender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ibtasam"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:textSize="20dp"
+        android:textColor="@color/colorBlack"
+        android:layout_below="@+id/tv_sender_title"/>
+
+    <TextView
+        android:id="@+id/tv_message_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Message: "
+        android:layout_margin="8dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorBlack"
+        android:layout_below="@+id/tv_sender"/>
+
+    <TextView
+        android:id="@+id/et_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_message_title"
+        android:layout_margin="8dp"
+        android:background="@color/colorWhite"
+        android:gravity="start"
+        android:hint="Message"
+        android:padding="8dp" />
+
+    <Button
+        android:id="@+id/btn_contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_message"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="right"
+        android:layout_margin="8dp"
+        android:background="@drawable/button_press_syle"
+        android:drawableLeft="@drawable/ic_phone_white_24dp"
+        android:text="Contact"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btn_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_message"
+        android:layout_alignParentLeft="true"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:background="@drawable/button_press_syle"
+        android:drawableLeft="@drawable/ic_add_location_24dp"
+        android:text="Location"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

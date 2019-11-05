@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">HUBBUD</string>
+
+    <string name="facebook_app_id">2005565882881125</string>
+    <string name="fb_login_protocol_scheme">fb2005565882881125</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_logout">Settings</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_activity_splash">HobbyApp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="title_activity_posts_listing">PostsListing</string>
+    <string name="description_text_for_contact_us">HUBBUD is a Social App to share and live exciting
+        hobbies and experiences nearby. HUBBUD connects users with similar minds and helps aficionados
+        experience hobbies with the right nearby talented enthusiast at the right price.</string>
+
+    <string name="about">                 HUBBUD
+      Where hobbyists earn and learn!
+
+      Meet people around you and share your passion
+
+
+             What is HUBBUD?
+HUBBUD is a Social App to share and live exciting hobbies and experiences nearby. HUBBUD connects users with similar minds and helps aficionados experience hobbies with the right nearby talented enthusiast at the right price.
+
+    Many Hobbies under 5 Categories!
+
+-Arts and Crafts
+-Sports
+-Tourism
+-Vendor
+-Organize
+
+HUBBUD Features
+
+-Make Extra Cash
+-Proximity
+-Chatting
+-Live New Experiences
+
+HUBBUD is an App which is focused only on Talents and Hobbies. We make sure we have the best talents around on board.</string>
+
+    <string name="privacy_policy">
+        End-User License Agreement
+(\"Agreement\")
+
+Last updated: (25 June 2018)
+
+Welcome to HUBBUD App(“We”, “Us”, “Our”) mobile device software application (the “Hubbud Software”).Now or in the future (collectively, the “HUUBUD Services”). For clarity, any reference herein to “Jobify Services” includes the “HUUBUD Software.” Privacy Policy (please see  (COLLECTIVELY, THIS “Agreement”).
+
+Please read this End-User License Agreement (\"Agreement\") carefully before clicking the \"I Agree\" button, downloading or using HUUBUD (\"Application\").
+
+By clicking the \"I Agree\" button, downloading or using the Application, you are agreeing to be bound by the terms and conditions of this Agreement.
+
+If you do not agree to the terms of this Agreement, do not click on the \"I Agree\" button and do not download or use the Application.
+
+Who We Are
+
+HUUBUD App (the “company”) is in Lahore, Pakistan.
+
+HUUBUD is a social App to learn or teach a hobby. You can share awesome experiences with people around you.
+
+License
+
+HUUBUD grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use the Application solely for your personal, in accordance with the terms of this Agreement.
+
+Restrictions
+
+You agree not to, and you will not permit others to:
+
+a) license, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the Application or make the Application available to any third party.
+
+Modifications to Application
+
+HUUBUD reserves the right to modify, suspend or discontinue, temporarily or permanently, the Application or any service to which it connects, with or without notice and without liability to you.
+
+Term and Termination
+
+This Agreement shall remain in effect until terminated by you or by the company.
+
+HUUBUD may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
+
+This Agreement will terminate immediately, without prior notice from HUUBUD, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the Application and all copies thereof from your mobile device.
+
+Upon termination of this Agreement, you shall cease all use of the Application and delete all copies of the Application from your mobile device.
+
+Severability
+
+If any provision of this Agreement is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+No Liability
+
+For the avoidance of doubt, The company will not be liable for any unauthorized use of User Content by any User.
+
+Safety; Your Interactions with Other Users.
+
+Though HUUBUD strives to encourage a respectful user experience through features like the double opt-in that only allows users to communicate if they have both indicated interest in one another, it is not responsible for the conduct of any user on or off of the Services. You agree to use caution in all interactions with other users, particularly if you decide to communicate off the Service or meet in person.
+
+YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS WITH OTHER USERS. YOU UNDERSTAND THAT HUUBUD APP DOES NOT CONDUCT CRIMINAL BACKGROUND CHECKS ON ITS USERS OR OTHERWISE INQUIRE INTO THE BACKGROUND OF ITS USERS. HUUBUD MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF USERS. HUUBUD RESERVES THE RIGHT TO CONDUCT ANY CRIMINAL BACKGROUND CHECK OR OTHER SCREENINGS (SUCH AS SEX OFFENDER REGISTER SEARCHES) AT ANY TIME USING AVAILABLE PUBLIC RECORDS.
+
+Terms applicable to all Listings
+
+When creating a Listing through the HUUBUD Platform you must (i) provide complete and accurate information about your Task Service (such as listing(i) description, location), (ii) disclose any deficiencies, restrictions and requirements that apply (such as any minimum age, proficiency or fitness requirements for an Experience) and (iii) provide any other pertinent information requested by Jobify. You are responsible for keeping your Listing information up-to-date at all times.
+
+Any terms and conditions included in your Listing, in particular in relation to cancellations, must not conflict with these Terms or the cancellation policy you have selected for your Listing.
+
+Pictures, animations or videos (collectively, \"Images\") used in your Listings must accurately reflect the quality and condition of your Services.
+
+When you accept or have pre-approved a task request, you are entering into a legally binding agreement with the user and are required to provide your Service(s) to the user as described in your Listing when the task request is made. You also agree to pay the applicable Fee and any applicable Taxes, which will be handled between users.
+
+Jobify recommends that users obtain appropriate insurance for their Services. Please review any respective insurance policy carefully, and in particular make sure that you are familiar with and understand any exclusions to, and any deductibles that may apply for, such insurance policy, including, but not limited to, whether or not your insurance policy will cover the actions or inactions of users (and the individuals the user has booked for, if applicable) while staying at your Accommodation, meeting place, participating in your Experience, Event or other Host Service.
+
+Community Rules
+
+By using the Services, you agree that you will not:
+
+·       use the Service for any purpose that is illegal or prohibited by this Agreement.
+
+·       Spam or defraud any users.
+
+·       impersonate any person or entity or post any images of another person without his or her permission.
+
+·       bully, “stalk,” intimidate, harass or defame any person.
+
+·       post any Content that violates or infringes anyone’s rights, including rights of publicity, privacy, copyright, trademark or other intellectual property or contract right.
+
+·       post any Content that is hate speech, threatening, sexually explicit or pornographic; incites violence; or contains nudity or graphic or gratuitous violence.
+
+·       solicit passwords for any purpose, or personal identifying information for commercial or unlawful purposes from other users or disseminate another person’s personal information without his or her permission.
+
+·       use another user’s account.
+
+·       create another account if we have already terminated your account, unless you have our permission.
+
+
+
+HUBBUD reserves the right to investigate and/ or terminate your account if you have misused the Service or behaved in a way that Jobify regards as inappropriate or unlawful, including actions or communications that occur off the Service but involve users you meet through the Service.
+
+Users Age Limitation
+
+The Service is targeted and can only be used by people of legal age or, if applicable, emancipated minors with full legal capacity to contract. Un-emancipated minors only may use the Service, with previous written permission of their parents, guardians or legal representatives, who will be responsible for the acts of those who are responsible for. It is important to note that these circumstances can not be verified by the Service Provider being responsibility of the parents or guardians of such un-emancipated minors to watch over for the correct use of the people who are dependent on are making within the Service and in particular, watch over the mobile phone that is being used to contract the Service. Likewise, the Service may only be contracted by the owner of the phone line that is associated with the Service. By accepting the Terms and Conditions, the user expresses to be legitimized and/or authorized to contract the Service and ensures the accuracy of all of the information given to the Service Provider. The user also expresses its commitment to make a proper use of the Service and agrees to comply with the current legislation that may be applicable in each case, as well as these Terms and Conditions, morality and/or public order. It is the user responsibility to respect these standards and it is strictly forbidden to use the Service subject to these Terms and Conditions for illegal purposes, or in any manner that violates or infringes the rights and interests of the Service Provider, its subsidiaries or of any other third party related. The user shall be exclusively responsible for any loss or damage caused by inappropriate, or illegal use of the Service
+
+Amendments to this Agreement
+
+HUBBUD reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material we will provide at least 30 days\' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+Contact Information
+
+If you have any questions about this Agreement, please contact us at
+
+hubbud@gmail.com
+
+Governing Law
+
+    </string>
+</resources>

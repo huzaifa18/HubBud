@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557372413469",
+    "firebase_url": "https://hub-bud.firebaseio.com",
+    "project_id": "hub-bud",
+    "storage_bucket": "hub-bud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557372413469:android:deec60b1cbbad286",
+        "android_client_info": {
+          "package_name": "com.example.hubbud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557372413469-9d726cl3dodep62h9qp8glvtlktp663m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hubbud",
+            "certificate_hash": "e28a7b8f1613b8972205fe0de1163d1380657342"
+          }
+        },
+        {
+          "client_id": "557372413469-2o01gtb048tarlppa35bv4cgoggk8i90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTp5yAnGf8-P8spgklHIQFMgRQJFEwVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557372413469-2o01gtb048tarlppa35bv4cgoggk8i90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
